@@ -1,16 +1,16 @@
-### Hi there 👋
+## Study projects
 
-<!--
-**khmaker/khmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Yandex.praktikum**](https://praktikum.yandex.ru/profile/backend-developer/) | [**JetBrains Academy**](https://hyperskill.org/")
+--- | --- 
+[Cash'n'Calories calculator](https://github.com/khmaker/hw_python_oop) |  
+[hw02](https://github.com/khmaker/hw02_community) |
+[hw03](https://github.com/khmaker/hw03_forms) |
+[hw04](https://github.com/khmaker/hw04_tests) |
+[hw05](https://github.com/khmaker/hw05_final) |
+[api01_sms](https://github.com/khmaker/api_01_sms) |
+[api_sp1_bot](https://github.com/khmaker/api_sp1_bot) |
+[api_yatube](https://github.com/khmaker/api_yatube) |
+[api_yatube_final](https://github.com/khmaker/api_final_yatube) |
+[api_yamdb_final](https://github.com/khmaker/api_yamdb) |
+[infra_sp2](https://github.com/khmaker/infra_sp2) |
+[yamdb_final](https://github.com/khmaker/yamdb_final) |
