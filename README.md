@@ -4,8 +4,6 @@
 --- | --- 
 [Cash'n'Calories calculator](https://github.com/khmaker/hw_python_oop) |  
 [hw02](https://github.com/khmaker/hw02_community) |
-[hw03](https://github.com/khmaker/hw03_forms) |
-[hw04](https://github.com/khmaker/hw04_tests) |
 [hw05](https://github.com/khmaker/hw05_final) |
 [api01_sms](https://github.com/khmaker/api_01_sms) |
 [api_sp1_bot](https://github.com/khmaker/api_sp1_bot) |
