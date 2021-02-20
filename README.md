@@ -7,6 +7,4 @@
 [api01_sms](https://github.com/khmaker/api_01_sms) |
 [api_sp1_bot](https://github.com/khmaker/api_sp1_bot) |
 [api_yatube_final](https://github.com/khmaker/api_final_yatube) |
-[api_yamdb_final](https://github.com/khmaker/api_yamdb) |
 [infra_sp2](https://github.com/khmaker/infra_sp2) |
-[yamdb_final](https://github.com/khmaker/yamdb_final) |
