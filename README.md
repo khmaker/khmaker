@@ -6,5 +6,5 @@
 [hw05](https://github.com/khmaker/hw05_final) | [Web scraper](https://github.com/khmaker/Web_Scraper)
 [api01_sms](https://github.com/khmaker/api_01_sms) |
 [api_sp1_bot](https://github.com/khmaker/api_sp1_bot) |
-[api_yatube_final](https://github.com/khmaker/api_final_yatube) |
+[API для Yatube](https://github.com/khmaker/api_final_yatube) |
 [infra_sp2](https://github.com/khmaker/infra_sp2) |
