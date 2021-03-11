@@ -8,3 +8,7 @@
 [api_sp1_bot](https://github.com/khmaker/api_sp1_bot) |
 [API для Yatube](https://github.com/khmaker/api_final_yatube) |
 [Проект YaMDb](https://github.com/khmaker/infra_sp2) |
+
+![stats](https://github-readme-stats.vercel.app/api?username=khmaker&show_icons=true&count_private=true&theme=dark&hide_title=true)
+
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khmaker&theme=dark&layout=compact&hide_title=true&card_width=445)
