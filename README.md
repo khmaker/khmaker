@@ -1,6 +1,6 @@
 ## Study projects
 
-[**Yandex.praktikum**](https://praktikum.yandex.ru/profile/backend-developer/) | [**JetBrains Academy**](https://hyperskill.org/")
+[**Yandex.praktikum**](https://praktikum.yandex.ru/profile/backend-developer/) | [**JetBrains Academy**](https://hyperskill.org)
 --- | --- 
 [Cash'n'Calories calculator](https://github.com/khmaker/hw_python_oop) |  [Currency converter](https://github.com/khmaker/Currency_Converter)
 [hw05](https://github.com/khmaker/hw05_final) | [Web scraper](https://github.com/khmaker/Web_Scraper)
