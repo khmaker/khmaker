@@ -7,7 +7,7 @@
 [API для Yatube](https://github.com/khmaker/api_final_yatube) | [Coffee machine](https://github.com/khmaker/Coffee_Machine)
 [Проект YaMDb](https://github.com/khmaker/infra_sp2) | [Robogotchi](https://github.com/khmaker/Robogotchi)
 [Продуктовый помощник](https://github.com/khmaker/foodgram-project) | ~[Text Based Adventure Game](https://hyperskill.org/projects/161)~
- 
-![stats](https://github-readme-stats.vercel.app/api?username=khmaker&show_icons=true&count_private=true&theme=dark&hide_title=true)
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khmaker&theme=dark&layout=compact&hide_title=true&card_width=445)
+[![stats](https://github-readme-stats.vercel.app/api?username=khmaker&show_icons=true&count_private=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khmaker&theme=dark&layout=compact&hide_title=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
