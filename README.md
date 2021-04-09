@@ -20,6 +20,8 @@
 &nbsp; | [![Multilingual Online Translator](https://img.shields.io/badge/Multilingual_Online_Translator-hard-orange)](https://github.com/khmaker/Multilingual_Online_Translator)
 &nbsp; | *[![Text-Based_Browser](https://img.shields.io/badge/Text--Based_Browser-hard-orange)](https://github.com/khmaker/Text-Based_Browser)
 
+\* work in progress
+
 [![stats](https://github-readme-stats.vercel.app/api?username=khmaker&show_icons=true&count_private=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khmaker&theme=dark&layout=compact&hide_title=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
