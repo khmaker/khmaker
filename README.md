@@ -18,9 +18,8 @@
 [Проект YaMDb](https://github.com/khmaker/infra_sp2) | [![Web_Scraper](https://img.shields.io/badge/Web_Scraper-medium-yellow)](https://github.com/khmaker/Web_Scraper)
 [Продуктовый помощник](https://github.com/khmaker/foodgram-project) | [![Robogotchi](https://img.shields.io/badge/Robogotchi-medium-yellow)](https://github.com/khmaker/Robogotchi)
 &nbsp; | [![Multilingual Online Translator](https://img.shields.io/badge/Multilingual_Online_Translator-hard-orange)](https://github.com/khmaker/Multilingual_Online_Translator)
-&nbsp; | *[![Text-Based_Browser](https://img.shields.io/badge/Text--Based_Browser-hard-orange)](https://github.com/khmaker/Text-Based_Browser)
+&nbsp; | [![Text-Based_Browser](https://img.shields.io/badge/Text--Based_Browser-hard-orange)](https://github.com/khmaker/Text-Based_Browser)
 
-\* work in progress
 
 [![stats](https://github-readme-stats.vercel.app/api?username=khmaker&show_icons=true&count_private=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
