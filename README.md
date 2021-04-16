@@ -1,14 +1,4 @@
 ## Study projects
-<!---
-<table>
-  <th><a href="https://praktikum.yandex.ru/profile/backend-developer/">Yandex.praktikum</a></th>
-  <th><a href="https://hyperskill.org/profile/9442596">JetBrains Academy</a></th>
-  <tr>
-    <td>sdsda</td>
-    <td>sdsda</td>
-  </tr>
-</table>
---->
 
 [**Yandex.praktikum**](https://praktikum.yandex.ru/profile/backend-developer/) | [**JetBrains Academy**](https://hyperskill.org/profile/9442596)
 --- | --- 
