@@ -7,6 +7,7 @@
 [API для Yatube](https://github.com/khmaker/api_final_yatube) | [![Loan_Calculator](https://img.shields.io/badge/Loan_Calculator-easy-brightgreen)](https://github.com/khmaker/Loan_Calculator)
 [Проект YaMDb](https://github.com/khmaker/infra_sp2) | [![Web_Scraper](https://img.shields.io/badge/Web_Scraper-medium-yellow)](https://github.com/khmaker/Web_Scraper)
 [Продуктовый помощник](https://github.com/khmaker/foodgram-project) | [![Robogotchi](https://img.shields.io/badge/Robogotchi-medium-yellow)](https://github.com/khmaker/Robogotchi)
+&nbsp; | [![Duplicate File Handler](https://img.shields.io/badge/Duplicate_File_Handler-medium-yellow)](https://github.com/khmaker/Duplicate_File_Handler)
 &nbsp; | [![Multilingual Online Translator](https://img.shields.io/badge/Multilingual_Online_Translator-hard-orange)](https://github.com/khmaker/Multilingual_Online_Translator)
 &nbsp; | [![Text-Based_Browser](https://img.shields.io/badge/Text--Based_Browser-hard-orange)](https://github.com/khmaker/Text-Based_Browser)
 
