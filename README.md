@@ -1,8 +1,8 @@
 ## Study projects
 
-[**Yandex.praktikum**](https://praktikum.yandex.ru/profile/backend-developer/) | [**JetBrains Academy**](https://hyperskill.org/profile/9442596)
---- | --- 
-[Cash'n'Calories calculator](https://github.com/khmaker/hw_python_oop) | [![Currency_Converter](https://img.shields.io/badge/Currency_Converter-easy-brightgreen)](https://github.com/khmaker/Currency_Converter)
+[**Yandex.praktikum**](https://praktikum.yandex.ru/profile/backend-developer/) | [**JetBrains Academy**](https://hyperskill.org/profile/9442596) | [Stepik](https://stepik.org/)
+--- | --- | ---
+[Cash'n'Calories calculator](https://github.com/khmaker/hw_python_oop) | [![Currency_Converter](https://img.shields.io/badge/Currency_Converter-easy-brightgreen)](https://github.com/khmaker/Currency_Converter) | [CitiesGame](https://github.com/khmaker/CitiesGame)
 [Yatube](https://github.com/khmaker/hw05_final) | [![Coffee_Machine](https://img.shields.io/badge/Coffee_Machine-easy-brightgreen)](https://github.com/khmaker/Coffee_Machine)
 [API для Yatube](https://github.com/khmaker/api_final_yatube) | [![Loan_Calculator](https://img.shields.io/badge/Loan_Calculator-easy-brightgreen)](https://github.com/khmaker/Loan_Calculator)
 [Проект YaMDb](https://github.com/khmaker/infra_sp2) | [![Web_Scraper](https://img.shields.io/badge/Web_Scraper-medium-yellow)](https://github.com/khmaker/Web_Scraper)
