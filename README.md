@@ -16,3 +16,5 @@
 
 
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khmaker&theme=dark&layout=compact&hide_title=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://stepik.org/users/167022233"><img src="https://stepik.org/static/frontend/topbar_logo.svg" width=100 alt="Stepik"></a>
