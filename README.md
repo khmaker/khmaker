@@ -21,3 +21,5 @@
 <a href="https://stepik.org/users/167022233"><img src="https://stepik.org/static/frontend/topbar_logo.svg" height=50 alt="Stepik"></a></br>
 <a href="https://hyperskill.org/profile/9442596"><img src="https://hyperskill.azureedge.net/static/img/icon.918d4622.svg" height=50 alt="JetBrains Academy"></a></br>
 <a href="https://www.codewars.com/users/Khmaker"><img src="https://www.codewars.com/users/Khmaker/badges/small" alt="CodeWars badge"></a></br>
+<a href="https://leetcode.com/khmaker/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height=50 alt="leetcode"></a></br>
+
