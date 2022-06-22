@@ -17,9 +17,9 @@
 
 [![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khmaker&theme=dark&layout=compact&hide_title=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://py.checkio.org/user/khmaker/"><img src="https://pbs.twimg.com/profile_images/557837346435891200/gllc3FdN_400x400.png" height=50 alt="Checkio"></a></br>
-<a href="https://stepik.org/users/167022233"><img src="https://stepik.org/static/frontend/topbar_logo.svg" height=50 alt="Stepik"></a></br>
-<a href="https://hyperskill.org/profile/9442596"><img src="https://hyperskill.azureedge.net/static/img/icon.918d4622.svg" height=50 alt="JetBrains Academy"></a></br>
+<a href="https://py.checkio.org/user/khmaker/"><img src="https://pbs.twimg.com/profile_images/557837346435891200/gllc3FdN_400x400.png" height=25 alt="Checkio"></a></br>
+<a href="https://stepik.org/users/167022233"><img src="https://stepik.org/static/frontend/topbar_logo.svg" height=25 alt="Stepik"></a></br>
+<a href="https://hyperskill.org/profile/9442596"><img src="https://hyperskill.azureedge.net/static/img/icon.918d4622.svg" height=25 alt="JetBrains Academy"></a></br>
 <a href="https://www.codewars.com/users/Khmaker"><img src="https://www.codewars.com/users/Khmaker/badges/small" alt="CodeWars badge"></a></br>
-<a href="https://leetcode.com/khmaker/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height=50 alt="leetcode"></a></br>
+<a href="https://leetcode.com/khmaker/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height=25 alt="leetcode"></a></br>
 
