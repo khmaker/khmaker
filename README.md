@@ -1,3 +1,4 @@
+<!--
 ## Study projects
 
 [**Yandex.praktikum**](https://praktikum.yandex.ru/profile/backend-developer/) | [**JetBrains Academy**](https://hyperskill.org/profile/9442596) | Games
@@ -10,6 +11,7 @@
 &nbsp; | [![Duplicate File Handler](https://img.shields.io/badge/Duplicate_File_Handler-medium-yellow)](https://github.com/khmaker/Duplicate_File_Handler)
 &nbsp; | [![Multilingual Online Translator](https://img.shields.io/badge/Multilingual_Online_Translator-hard-orange)](https://github.com/khmaker/Multilingual_Online_Translator)
 &nbsp; | [![Text-Based_Browser](https://img.shields.io/badge/Text--Based_Browser-hard-orange)](https://github.com/khmaker/Text-Based_Browser)
+-->
 
 <!--
 [![stats](https://github-readme-stats.vercel.app/api?username=khmaker&show_icons=true&count_private=true&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,9 +21,11 @@
 
 -->
 
+<!--
 <a href="https://py.checkio.org/user/khmaker/"><img src="https://pbs.twimg.com/profile_images/557837346435891200/gllc3FdN_400x400.png" height=25 alt="Checkio"></a></br>
 <a href="https://stepik.org/users/167022233"><img src="https://stepik.org/static/frontend/topbar_logo.svg" height=25 alt="Stepik"></a></br>
 <a href="https://hyperskill.org/profile/9442596"><img src="https://media.licdn.com/dms/image/C4E0BAQF2krChy2MXKg/company-logo_200_200/0/1662466363563?e=2147483647&v=beta&t=I5YJiyFcmDDA7tLJOfHLYkz_8WI8eMdv0-2shNRZwQc" height=25 alt="JetBrains Academy"></a></br>
 <a href="https://www.codewars.com/users/Khmaker"><img src="https://www.codewars.com/users/Khmaker/badges/small" alt="CodeWars badge"></a></br>
 <a href="https://leetcode.com/khmaker/"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" height=25 alt="leetcode"></a></br>
+-->
 
